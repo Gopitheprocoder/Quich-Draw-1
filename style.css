@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+
+#score{
+    font-size: 25px;
+   float: left;
+   margin-left: 10px;
+
+}
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 10px;
+}
+
+#s_to_be_d{
+    color: blueviolet;
+}
+
